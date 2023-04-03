@@ -2101,7 +2101,7 @@
     global "^4.4.0"
     regenerator-runtime "^0.13.7"
 
-"@storybook/addons@6.5.16", "@storybook/addons@^6.5.16":
+"@storybook/addons@6.5.16":
   version "6.5.16"
   resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-6.5.16.tgz#07e8f2205f86fa4c9dada719e3e096cb468e3cdd"
   integrity sha512-p3DqQi+8QRL5k7jXhXmJZLsE/GqHqyY6PcoA1oNTJr0try48uhTGUOYkgzmqtDaa/qPFO5LP+xCPzZXckGtquQ==
@@ -13151,12 +13151,11 @@ storybook-addon-next-router@^4.0.2:
   dependencies:
     tslib "2.4.0"
 
-storybook-addon-next@^1.7.2:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/storybook-addon-next/-/storybook-addon-next-1.7.2.tgz#390179c8ca8a4227530720a3a3a34ae86a2ea3cc"
-  integrity sha512-1A3eAx8LKbAjraHGAaA79kXQlf4RyfdqYpLyhng0TXdlbaUV45680gTL/+1loISFKrYP8ZY8ipmOKCkAtmKgQg==
+storybook-addon-next@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/storybook-addon-next/-/storybook-addon-next-1.8.0.tgz#e37d5c851dd10a46a0d3aca170c49ba100e51e06"
+  integrity sha512-hCDRkgTllb9Qz14u+oafnhUbKMWZ/YKgcVBHDc9ilbsd9I3bHqBwpldfTelL/ahfo2jDqPnCQVnQkXV8U+fr2Q==
   dependencies:
-    "@storybook/addons" "^6.5.16"
     image-size "^1.0.0"
     loader-utils "^3.2.1"
     postcss-loader "^7.0.2"
